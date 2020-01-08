@@ -1,0 +1,4 @@
+#Wed Jan 08 00:08:57 AMST 2020
+base.0=/home/elvys/Projetos/buscador_de_gif/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
